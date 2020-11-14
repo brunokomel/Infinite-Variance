@@ -10,7 +10,7 @@ Hand Out:
 RMarkdown:
 [report.rmd](https://github.com/brunokomel/Math-23C-Project/blob/Fin/Report.Rmd)
 
-R-Script
+R-Script:
 [Main.R](http://github.com/brunokomel/Math-23C-Project/blob/Fin/Main.R)
 
 Data Sets:
