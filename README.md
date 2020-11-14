@@ -3,13 +3,13 @@
 
 Report:
 report.rmd
-report.pdf: https://github.com/brunokomel/Math-23C-Project/blob/Fin/Report.pdf
+report.pdf https://github.com/brunokomel/Math-23C-Project/blob/Fin/Report.pdf
 
 Hand Out:
-Hand-Out.pdf: https://github.com/brunokomel/Math-23C-Project/blob/Fin/Hand-Out.pdf
+Hand-Out.pdf https://github.com/brunokomel/Math-23C-Project/blob/Fin/Hand-Out.pdf
 
 R-Script:
-Main.R: https://github.com/brunokomel/Math-23C-Project/blob/Fin/Main.R
+Main.R https://github.com/brunokomel/Math-23C-Project/blob/Fin/Main.R
 
 Data Sets:
 DJI.csv
