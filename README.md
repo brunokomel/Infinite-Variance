@@ -1,5 +1,7 @@
 # Math-23C-Project
-50 Shades of Stable by Derl Clausen, Bruno Kömel, and Rakeen Tanvir
+## 50 Shades of Stable by Derl Clausen, Bruno Kömel, and Rakeen Tanvir
+
+### An investigation into the nature of variance in capital markets.
 
 Report:
 [report.pdf](http://github.com/brunokomel/Math-23C-Project/blob/Fin/Report.pdf)
