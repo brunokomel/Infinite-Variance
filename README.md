@@ -1,8 +1,8 @@
 # Math-23C-Project
 50 Shades of Stable by Derl Clausen, Bruno Kömel, and Rakeen Tanvir
 
-Report: 
-report.rmd 
+Report:
+report.rmd
 report.pdf: https://github.com/brunokomel/Math-23C-Project/blob/Fin/Report.pdf
 
 Hand Out: 
